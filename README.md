@@ -1,0 +1,2 @@
+# PatternSearchAlgos
+algorithm bio-info

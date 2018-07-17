@@ -5,7 +5,7 @@ import java.lang.management.MemoryMXBean;
 import java.lang.management.MemoryUsage;
 import java.util.Random;
 
-public class EfficienceMainSimulationWhithoutTraceFiles {
+public class EfficienceMainSimulationWithoutTraceFiles {
 	
 	public static void main(String[] args) throws IOException,InterruptedException {
 		String[] AlgorithmName = { "NATIVE", "RABIN_KARP", "KMP","SuffixTree"};
